@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "VMLTS",
+    "slug": "vmlts",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "assetBundlePatterns": ["**/*"],
+    "ios": { "supportsTablet": false },
+    "android": { "adaptiveIcon": { "backgroundColor": "#0A0E1A" } },
+    "web": { "bundler": "metro" }
+  }
+}
