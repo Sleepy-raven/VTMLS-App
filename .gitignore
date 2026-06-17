@@ -1,0 +1,9 @@
+backend/*/build/
+backend/*/.gradle/
+*.class
+backend/*/build/
+backend/*/.gradle/
+*.class
+backend/*/build/
+backend/*/.gradle/
+*.class
