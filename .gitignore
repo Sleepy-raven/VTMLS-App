@@ -8,3 +8,4 @@ Thumbs.db
 backend/*/build/
 backend/*/.gradle/
 *.class
+backend/admin-service/bin/ backend/analytics-service/bin/ backend/api-gateway/bin/ backend/auth-service/bin/ backend/lesson-service/bin/ backend/payment-service/bin/ backend/trade-service/bin/
